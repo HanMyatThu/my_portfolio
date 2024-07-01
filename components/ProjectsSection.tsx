@@ -38,7 +38,7 @@ const projectsData: ProjectCardProps[] = [
     title: "Rice ATM Machine",
     description: "This Project was created during Covid period in Myanmar with the help of other people. I took a reference from Vietnam and created a similar one to help the people of my country. This was developed with Node, React, Javascript and etc.",
     image: "/images/projects/3.png",
-    tag: ["All", "Public"],
+    tag: ["All", "Public", "Work"],
     gitUrl: "https://github.com/HanMyatThu/coviddonation_server",
     previewUrl: "/https://www.facebook.com/watch/?v=669423680310719",
   },
